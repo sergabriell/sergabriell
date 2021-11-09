@@ -2,6 +2,7 @@
 
 - 🔭 Não estou trabalhando no momento
 - 🌱 Estudando Desenvolvimendo de Sistemas
+- 🌱 Estudando Desenvolvimento de Software na Cubos Academy
 
 <div align="center">
   <a href="https://github.com/sergabriell">
