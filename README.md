@@ -1,5 +1,4 @@
-## Oii eu sou o Sérgio Gabriel, atualmente estudante de Desenvolvimento de Sistemas!
-
+## Oii eu sou o Sérgio Gabriel, atualmente estudante e futuro desenvolvedor Full-Stack
 - 👨‍💻 Estudando Desenvolvimendo de Sistemas
 - 👨‍💻 Estudando Desenvolvimento de Software na Cubos Academy
 
