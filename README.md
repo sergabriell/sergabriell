@@ -1,6 +1,6 @@
 ## Olá, me chamo Sérgio Gabriel, sou estudante e desenvolvedor Full-Stack
-- 👨‍💻 Estudando Desenvolvimendo de Sistemas
 - 👨‍💻 Estudando Desenvolvimento de Software na Cubos Academy
+- 👨‍💻 Estudando Desenvolvimendo de Sistemas
 
 <div>
   <a href="https://github.com/sergabriell">
