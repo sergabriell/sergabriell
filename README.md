@@ -13,8 +13,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
 </div>
 
 <section style="display:flex;flex-wrap:wrap;"><br>
-  <img height="180rem" width='100%' src="https://github-readme-stats.vercel.app/api?username=sergabriell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180rem" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergabriell&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180rem" width='50%' src="https://github-readme-stats.vercel.app/api?username=sergabriell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180rem" width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergabriell&layout=compact&langs_count=7&theme=highcontrast"/>
 </section>
    
  ##
