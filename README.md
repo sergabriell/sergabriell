@@ -14,11 +14,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
 
 <section style="display:flex;flex-wrap:wrap;"><br>
   <img height="180rem" width='48%' src="https://github-readme-stats.vercel.app/api?username=sergabriell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180rem" width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergabriell&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180rem" width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergabriell&langs_count=8&layout=compact&theme=highcontrast"/>
 </section>
    
  ##
-
 
 <div> 
   <a href = "mailto:sergio.gabriel85@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
