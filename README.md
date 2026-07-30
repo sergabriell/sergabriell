@@ -1,6 +1,7 @@
 ## Olá, me chamo Sérgio Gabriel, sou desenvolvedor Full-Stack
 - 👨‍💻 Formado em Desenvolvimento de Software FullStack na Cubos Academy
-- 👨‍💻 Desenvolvedor BackEnd na Catskillet
+- 👨‍💻 Desenvolvedor BackEnd na Catskillet por 4 anos
+- 👨‍💻 Desenvolvedor BackEnd na Avanade
 
 <div><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
